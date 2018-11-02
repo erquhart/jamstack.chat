@@ -1,4 +1,6 @@
 {
+  "name": "static.chat",
+  "version": "0.0.1",
   "scripts": {
     "start": "parcel src/index.html -p 8000 --open",
     "build": "parcel build src/index.html"
